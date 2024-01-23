@@ -23,6 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmadr&show_icons=true&locale=en&layout=compact" alt="danielmadr" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!---
 Danielmadr/Danielmadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
