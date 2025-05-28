@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm Daniel Martins</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+<h1 align="center">Hi there 👋, I'm Daniel Martins</h1>
+<h3 align="center">Full Stack Developer | MSc in Computer Science | PhD Candidate</h3>
 
-- 🔭 I am currently working on Back-End Development **Santander Coders 2023**
-
-- 🌱 I’m currently learning **Java, JavaScript, Node.js, TypeScript, React, HTML e CSS**
-
-- 💬 Ask me about **Java, JavaScript, Node.js, TypeScript, React, HTML e CSS**
-
-- 📫 How to reach me **daniel.m.adr@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-martins-de-andrade/](https://www.linkedin.com/in/daniel-martins-de-andrade/)
-
-- ⚡ Fun fact **I'm transitioning from a career in mechanical engineering to back-end development**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-martins-de-andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-martins-de-andrade/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-martins-de-andrade/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:daniel.m.adr@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Daniel-blue?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmadr&show_icons=true&locale=en&layout=compact" alt="danielmadr" /></p>
+### 🚀 About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielmadr&show_icons=true&theme=dark)
+🎓 I'm a **Computer Science Master's graduate**, currently pursuing a **PhD** in the same field.  
+💼 I'm a passionate **Full Stack Developer**, with strong focus on **Back-End Development**.  
+🔁 I transitioned from **Mechanical Engineering** to Tech, and never looked back!  
+🌍 Based in **Brazil**, collaborating on global projects.
 
-<!---
-Danielmadr/Danielmadr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧠 Technologies & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+</p>
+
+---
+
+### 📚 Currently Learning
+
+- Advanced .NET & C# Development  
+- Cloud-native architectures (Docker, Kubernetes)  
+- Digital Twins & AI for predictive simulations
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-martins&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-martins&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+I used to work as a mechanical engineer! My journey into software started with automation projects and evolved into a deep passion for scalable backend systems, clean architecture, and impactful user experiences.
+
+---
+
+### 📌 Featured Projects
+
+🚧 *Working on this section – stay tuned!*
+
+---
+
+Thanks for stopping by! Don’t hesitate to connect 🚀
