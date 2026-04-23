@@ -1,6 +1,6 @@
-# Hi there! I'm Daniel Martins de Andrade 👋
+=# Hi there! I'm Daniel Martins de Andrade 👋
 
-<h3 align="center">Full Stack Developer | MSc in Computer Science | PhD Candidate</h3>
+<h3 align="center">Full Stack Developer @ Sparta · MSc in Computer Science · PhD Candidate @ UNIFESP</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-martins-de-andrade/" target="_blank">
@@ -9,7 +9,8 @@
   <a href="mailto:daniel.m.adr@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-daniel.m.adr@hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/your-aws-badge-id" target="_blank"> <!-- Replace 'your-aws-badge-id' with your actual badge ID -->
+  <!-- TODO: Replace 'your-aws-badge-id' below with your actual Credly badge ID -->
+  <a href="https://www.credly.com/badges/your-aws-badge-id" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Danielmadr&style=for-the-badge&color=brightgreen" />
@@ -19,62 +20,63 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Computer Science Master's graduate**, currently pursuing a **PhD** in the same field.  
-💼 I'm a passionate **Full Stack Developer**, with a strong focus on **Back-End Development**.  
-🔁 I transitioned from **Mechanical Engineering** to Tech, with a deep interest in integrating industry and technology.  
-🌍 Based in **São Paulo, Brazil**, I'm open to collaborations and new opportunities in the IT field. Let's connect and explore how we can shape the future together!
-
+- 💼 **Full Stack Developer at [Sparta](https://www.spartainvestimentos.com.br/)**, building data-driven tools and internal products for the Brazilian asset management industry.
+- 🎓 **MSc in Computer Science** and **PhD candidate at UNIFESP**, researching **Web Accessibility** and **WCAG** compliance.
+- 🔁 Originally a **Mechanical Engineer** — that background shapes how I approach software: pragmatic, system-oriented, and built to last.
+- 🌍 Based in **São Paulo, Brazil** — open to collaborations and new opportunities.
 
 ---
 
-## 💻 Technologies and Tools
+## 💻 Tech Stack
 
-My technological toolbox is diverse, shaped by a multidisciplinary journey and a strong focus on building scalable digital solutions.
+I work across the full stack, from data pipelines and APIs to modern reactive interfaces.
 
-🔧 On the **Back-End**, I specialize in **Java** and the **Spring ecosystem** (**Spring Boot**, **Spring Data**, **Spring Security**), crafting robust and maintainable RESTful APIs. I'm proficient with relational databases such as **SQL Server** and **PostgreSQL**, and have solid experience with NoSQL solutions like **MongoDB**.
+### Currently at Sparta
+- 🐍 **Python** for backend services, automation, and data processing
+- ⚡ **Vite + React + TypeScript** for fast, modern web apps
+- 📊 **Data engineering** with **dbt**, **Apache Iceberg**, and **Trino/Starburst** on the data lake
+- 🗃️ Advanced **SQL** for financial data modeling (B3, fund performance, risk metrics)
 
-🎨 On the **Front-End**, I develop modern, reactive interfaces using **JavaScript**, **TypeScript**, and **React**. I also leverage **Node.js** for full-stack development and API integration. My foundation includes semantic **HTML5** and responsive **CSS3** for web structure and styling.
+### Backend Foundations
+- ☕ **Java** & the **Spring ecosystem** (Spring Boot, Data, Security) — robust RESTful APIs
+- 🟦 **C#** and **.NET** — current learning focus
+- 🟢 **Node.js** for full-stack JavaScript
+- 🗄️ **PostgreSQL**, **SQL Server**, **MongoDB**
 
-☁️ I am an **AWS Certified Cloud Practitioner**, demonstrating proficiency in cloud fundamentals and AWS services. I’m also experienced with **Docker** and **Kubernetes**, embracing cloud-native and containerized architectures.
+### Cloud, DevOps & Standards
+- ☁️ **AWS** (Certified Cloud Practitioner)
+- 🐳 **Docker** & **Kubernetes** for containerized, cloud-native deployments
+- ♿ **WCAG 2.1 / 2.2**, semantic HTML, ARIA — accessibility as a first-class concern
+- 🔧 **Git** & collaborative workflows on GitHub
 
-🛠️ Additional languages and tools in my stack include **Python**, **C**, **C#**, and the **.NET** framework, as well as version control with **Git** and collaborative workflows on platforms like **GitHub**.
-
-I continuously seek to expand my toolkit to meet the evolving demands of software engineering.
-
-
-<p align="center">
-  <!-- Back-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <!-- Front-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <!-- Other Languages -->
+<p align="left">
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-## 🌱 Current Focus and Continuous Learning
+## 🔬 Research & Current Focus
 
-My quest for knowledge is relentless. Currently, I am dedicated to deepening my understanding of **.NET development with C#**, exploring the nuances and potential of this robust platform. In parallel, I continue to expand my knowledge in **cloud-native architectures**, with an emphasis on **Docker** and **Kubernetes**, essential for building modern, resilient, and scalable systems.
-
-Academically, my **PhD in Computer Science** at UNIFESP allows me to investigate cutting-edge topics, with a special focus on **Digital Twins** and the application of **Artificial Intelligence (AI)** in Industry 4.0. This research keeps me at the forefront of knowledge, seeking to integrate innovative computational solutions to the challenges of the productive sector.
+- ♿ **PhD research at UNIFESP** on **Web Accessibility** and **WCAG** compliance — investigating how modern web standards and AI-assisted tooling can make the web more inclusive by default.
+- 🟦 Deepening **.NET / C#** development for cross-stack versatility.
+- ☁️ Expanding **cloud-native** skills with **Docker** and **Kubernetes**.
 
 ---
 
@@ -87,20 +89,25 @@ Academically, my **PhD in Computer Science** at UNIFESP allows me to investigate
 
 ---
 
-## ✨ Featured Projects
+## 📌 Featured Work
 
-🚧 *I am constantly working on new projects and will update this section soon with examples of my work. Stay tuned!* In the meantime, feel free to explore my repositories.
+> Most of my production work lives in private repositories at Sparta. Below are public projects and experiments that reflect how I code and think.
+
+<!-- TODO: Replace with 2–4 of your strongest public repos. Suggested format:
+- 🛠️ **[repo-name](link)** — one-line description (stack used)
+- ♿ **[a11y-experiment](link)** — short description (stack)
+-->
+
+📂 In the meantime, feel free to browse the repositories — I'm constantly experimenting.
 
 ---
 
-## 📫 How to Reach Me
-
-I'm always open to new connections, collaborations, and interesting opportunities. You can find me through the following channels:
+## 📫 Let's Connect
 
 - 📧 **Email:** [daniel.m.adr@hotmail.com](mailto:daniel.m.adr@hotmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/daniel-martins-de-andrade](https://www.linkedin.com/in/daniel-martins-de-andrade/)
-- 📱 **WhatsApp:** [+55 24 99926-4213](https://wa.me/5524999264213) 
+- 📱 **WhatsApp:** [+55 24 99926-4213](https://wa.me/5524999264213)
 
 ---
 
-Thanks for stopping by! Feel free to connect and explore my projects. 🚀
+<p align="center">Thanks for stopping by! ⭐</p>
