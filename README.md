@@ -28,7 +28,7 @@
 - 💼 **Full Stack Developer at [Sparta](https://www.spartainvestimentos.com.br/)** with a **back-end focus** — building data-driven tools, internal products, and data pipelines for the Brazilian asset management industry.
 - 🎓 **MSc in Computer Science** and **PhD candidate at UNIFESP**, researching **Web Accessibility** and **WCAG** compliance.
 - 🔁 Originally a **Mechanical Engineer** — that background shapes how I approach software: pragmatic, system-oriented, and built to last.
-- 🌍 Based in **São Paulo, Brazil** — open to collaborations and new opportunities.
+- 🌍 Based in **São Paulo, Brazil** — open to collaborations.
 
 ---
 
