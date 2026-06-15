@@ -61,6 +61,7 @@ I work across the full stack with a **back-end focus** — from data pipelines a
 
 ### 🧩 Foundations
 - **Java / Spring** ecosystem (Spring Boot, Data, Security) — earlier backend work
+- **C** — algorithms, data structures, and high-performance computing (Strassen, blocking, CBLAS/PAPI) from my academic background
 
 <p align="left">
   <!-- Languages -->
@@ -68,6 +69,7 @@ I work across the full stack with a **back-end focus** — from data pipelines a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
