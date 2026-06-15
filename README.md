@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 💼 **Full Stack Developer at [Sparta](https://www.spartainvestimentos.com.br/)**, building data-driven tools and internal products for the Brazilian asset management industry.
+- 💼 **Full Stack Developer at [Sparta](https://www.spartainvestimentos.com.br/)** with a **back-end focus** — building data-driven tools, internal products, and data pipelines for the Brazilian asset management industry.
 - 🎓 **MSc in Computer Science** and **PhD candidate at UNIFESP**, researching **Web Accessibility** and **WCAG** compliance.
 - 🔁 Originally a **Mechanical Engineer** — that background shapes how I approach software: pragmatic, system-oriented, and built to last.
 - 🌍 Based in **São Paulo, Brazil** — open to collaborations and new opportunities.
@@ -34,44 +34,54 @@
 
 ## 💻 Tech Stack
 
-I work across the full stack, from data pipelines and APIs to modern reactive interfaces.
+I work across the full stack with a **back-end focus** — from data pipelines and APIs to modern reactive interfaces.
 
-### Currently at Sparta
-- 🐍 **Python** for backend services, automation, and data processing
-- ⚡ **Vite + React + TypeScript** for fast, modern web apps
-- 📊 **Data engineering** with **dbt**, **Apache Iceberg**, and **Trino/Starburst** on the data lake
-- 🗃️ Advanced **SQL** for financial data modeling (B3, fund performance, risk metrics)
+### 🐍 Back-end & Data _(my core)_
+- **Python** — backend services, automation, and data processing _(primary language)_
+- **Django** & **FastAPI** for REST APIs and internal tools
+- **Data engineering** on the data lake: **Trino/Starburst**, **dbt**, **Apache Iceberg**, orchestrated with **Apache Airflow**
+- Advanced **SQL** for financial data modeling — **PostgreSQL**, **MySQL**, **SQL Server** _(day-to-day in **DBeaver**)_
 
-### Backend Foundations
-- ☕ **Java** & the **Spring ecosystem** (Spring Boot, Data, Security) — robust RESTful APIs
-- 🟦 **C#** and **.NET** — current learning focus
-- 🟢 **Node.js** for full-stack JavaScript
-- 🗄️ **PostgreSQL**, **SQL Server**, **MongoDB**
+### 🎨 Front-end
+- **React + Vite + TypeScript** for fast, modern web apps
+- Full-stack JavaScript with **Node.js / NestJS**
 
-### Cloud, DevOps & Standards
-- ☁️ **AWS** (Certified Cloud Practitioner)
-- 🐳 **Docker** & **Kubernetes** for containerized, cloud-native deployments
-- ♿ **WCAG 2.1 / 2.2**, semantic HTML, ARIA — accessibility as a first-class concern
-- 🔧 **Git** & collaborative workflows on GitHub
+### 📊 BI & Reporting
+- **Power BI**, **Excel**, and the **Microsoft 365** ecosystem for dashboards and analytics
+
+### ☁️ Cloud & DevOps
+- **AWS** _(3× certified)_
+- **Docker** & **Portainer** for containerized deployments
+- **CI/CD** pipelines for automated testing and delivery
+
+### 🤖 Ways of Working
+- **AI-assisted development with Claude Code** — agentic, spec-driven workflows for shipping production features faster
+- **WCAG 2.1 / 2.2** accessibility as a first-class concern _(PhD research)_
+- **Git** & collaborative GitHub workflows
+
+### 🧩 Foundations
+- **Java / Spring** ecosystem (Spring Boot, Data, Security) — earlier backend work
 
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <!-- Frontend -->
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <!-- Cloud & DevOps -->
+  <!-- Data & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -80,8 +90,8 @@ I work across the full stack, from data pipelines and APIs to modern reactive in
 ## 🔬 Research & Current Focus
 
 - ♿ **PhD research at UNIFESP** on **Web Accessibility** and **WCAG** compliance — investigating how modern web standards and AI-assisted tooling can make the web more inclusive by default.
-- 🟦 Deepening **.NET / C#** development for cross-stack versatility.
-- ☁️ Expanding **cloud-native** skills with **Docker** and **Kubernetes**.
+- 🤖 Building production features with **AI-assisted development (Claude Code)** — agentic workflows, spec-driven implementation, and automation.
+- 📊 Deepening **data engineering** on the lakehouse (**Trino**, **Airflow**, **dbt**) for financial data at scale.
 
 ---
 
@@ -98,12 +108,12 @@ I work across the full stack, from data pipelines and APIs to modern reactive in
 
 > Most of my production work lives in private repositories at Sparta. Below are public projects and experiments that reflect how I code and think.
 
-<!-- TODO: Replace with 2–4 of your strongest public repos. Suggested format:
-- 🛠️ **[repo-name](link)** — one-line description (stack used)
-- ♿ **[a11y-experiment](link)** — short description (stack)
--->
+- 🎬 **[IMDb Rating Prediction](https://github.com/Danielmadr/LH_CD_DANIEL.M.ANDRADE)** — end-to-end ML app predicting IMDb scores, with EDA and trained models _(Python, Streamlit, scikit-learn, XGBoost, Optuna)_
+- ⚙️ **[Backend Sparta Challenge](https://github.com/Danielmadr/backend-sparta-challenge)** — admin-fee calculation API comparing brute-force vs. NumPy-optimized strategies _(FastAPI, NumPy, Docker)_
+- 🏢 **[NestJS Multitenancy](https://github.com/Danielmadr/nestjs-multitenancy)** — multi-tenant event-management platform _(NestJS, Prisma, MySQL)_
+- 🎮 **[Know Your Fan](https://github.com/Danielmadr/know-your-fan)** — full-stack eSports fan-engagement platform with AI-powered profile analysis _(Next.js, NestJS, FastAPI)_
 
-📂 In the meantime, feel free to browse the repositories — I'm constantly experimenting.
+📂 Feel free to browse the rest of the repositories — I'm constantly experimenting.
 
 ---
 
