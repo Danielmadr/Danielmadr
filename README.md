@@ -1,4 +1,4 @@
-=# Hi there! I'm Daniel Martins de Andrade 👋
+# Hi there! I'm Daniel Martins de Andrade 👋
 
 <h3 align="center">Full Stack Developer @ Sparta · MSc in Computer Science · PhD Candidate @ UNIFESP</h3>
 
@@ -9,9 +9,14 @@
   <a href="mailto:daniel.m.adr@hotmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-daniel.m.adr@hotmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- TODO: Replace 'your-aws-badge-id' below with your actual Credly badge ID -->
-  <a href="https://www.credly.com/badges/your-aws-badge-id" target="_blank">
+  <a href="https://www.credly.com/badges/08e9ade4-cab6-4053-bed9-be2f4581dfad/public_url" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/214dd6a6-1a15-402f-bd50-238b5bfd06da/public_url" target="_blank">
+    <img alt="AWS Certified Developer" src="https://img.shields.io/badge/AWS%20Certified-Developer-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/69b6eec1-bf7d-4e4e-bdae-5d5f154ba4f9/public_url" target="_blank">
+    <img alt="AWS re/Start Graduate" src="https://img.shields.io/badge/AWS-re%2FStart%20Graduate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Danielmadr&style=for-the-badge&color=brightgreen" />
 </p>
